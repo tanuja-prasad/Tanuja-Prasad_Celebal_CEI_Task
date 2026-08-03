@@ -1,0 +1,40 @@
+Artificial Intelligence (AI)
+
+Artificial Intelligence (AI) is a branch of computer science that focuses on creating systems capable of performing tasks that typically require human intelligence. These tasks include learning, reasoning, problem-solving, understanding natural language, recognizing images, and making decisions.
+
+AI can be classified into three categories:
+1. Narrow AI
+2. General AI
+3. Super AI
+
+Narrow AI is designed to perform a specific task, such as voice assistants, recommendation systems, or spam email detection. Most AI systems today belong to this category.
+
+General AI refers to machines that can perform any intellectual task that a human can do. This type of AI is still under research.
+
+Super AI is a theoretical concept where machines become more intelligent than humans in every aspect.
+
+Applications of AI include:
+- Healthcare
+- Finance
+- Education
+- Autonomous Vehicles
+- Robotics
+- Cybersecurity
+- Smart Assistants
+- E-commerce
+
+Some popular AI tools include ChatGPT, Google Gemini, Claude, and Microsoft Copilot.
+
+Advantages of AI:
+- Faster decision making
+- Automation of repetitive tasks
+- Improved accuracy
+- 24/7 availability
+
+Disadvantages of AI:
+- High development cost
+- Job displacement
+- Ethical concerns
+- Data privacy issues
+
+Artificial Intelligence is transforming industries and is expected to play a major role in future technologies.

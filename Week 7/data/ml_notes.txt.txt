@@ -1,0 +1,49 @@
+Machine Learning
+
+Machine Learning (ML) is a subset of Artificial Intelligence that enables computers to learn patterns from data without being explicitly programmed.
+
+Instead of writing fixed rules, machine learning algorithms improve their performance by learning from historical data.
+
+There are three major types of machine learning:
+
+1. Supervised Learning
+2. Unsupervised Learning
+3. Reinforcement Learning
+
+Supervised Learning uses labeled data to train models. Examples include predicting house prices and email spam detection.
+
+Common supervised learning algorithms include:
+- Linear Regression
+- Logistic Regression
+- Decision Trees
+- Random Forest
+- Support Vector Machine (SVM)
+
+Unsupervised Learning works with unlabeled data to discover hidden patterns.
+
+Popular unsupervised algorithms include:
+- K-Means Clustering
+- DBSCAN
+- Hierarchical Clustering
+
+Reinforcement Learning trains an agent through rewards and penalties.
+
+Applications of Machine Learning:
+- Fraud Detection
+- Recommendation Systems
+- Medical Diagnosis
+- Stock Price Prediction
+- Image Classification
+- Customer Segmentation
+
+The machine learning workflow consists of:
+1. Data Collection
+2. Data Cleaning
+3. Feature Engineering
+4. Model Training
+5. Model Evaluation
+6. Prediction
+
+Common evaluation metrics include Accuracy, Precision, Recall, F1-Score, and Mean Squared Error.
+
+Python libraries used for machine learning include NumPy, Pandas, Scikit-learn, TensorFlow, and PyTorch.
