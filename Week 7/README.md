@@ -11,9 +11,9 @@ Document Question Answering System using Retrieval-Augmented Generation (RAG).
 
 
 # Dataset
-AI Notes
-Machine Learning Notes
-Deep Learning Notes
+1.AI Notes
+2.Machine Learning Notes
+3.Deep Learning Notes
 
 
 # Workflow
